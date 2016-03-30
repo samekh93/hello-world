@@ -1,2 +1,3 @@
 # hello-world
-Tutorial from here: https://guides.github.com/activities/hello-world/
+Working on this [tutorial](https://guides.github.com/activities/hello-world/).
+
